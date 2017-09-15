@@ -1,0 +1,2 @@
+/*global $*/
+$(".draggable").draggable();
